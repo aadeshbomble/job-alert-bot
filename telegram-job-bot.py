@@ -2,7 +2,7 @@ import requests
 import time
 import os
 
-BOT_TOKEN = os.getenv("BOT_TOKEN", "8614401796:AAGptkVuKk66jjyLVO6QiiJx3g22XSDOFcQ")
+BOT_TOKEN = os.getenv("BOT_TOKEN", "")
 CHAT_ID = os.getenv("CHAT_ID", "5049534508")
 
 KEYWORDS = ["python intern", "ai intern", "data science", "automation", "remote intern"]
